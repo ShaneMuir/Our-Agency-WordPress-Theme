@@ -269,10 +269,6 @@ add_filter( 'the_password_form', 'wp_bootstrap_starter_password_form' );
 
 
 
-/**
- * Implement the Custom Header feature.
- */
-require get_template_directory() . '/inc/custom-header.php';
 
 /**
  * Custom template tags for this theme.
